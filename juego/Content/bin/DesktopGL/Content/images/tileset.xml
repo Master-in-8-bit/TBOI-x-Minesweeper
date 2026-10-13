@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+    <Texture>images/tileset</Texture>
+    <Regions>
+        <Region name="cell_low" x="0" y="0" width="32" height="32" />
+        <Region name="cell_high" x="32" y="0" width="32" height="32" />
+        <Region name="cell_flag" x="64" y="0" width="32" height="32" />
+        <Region name="cell_bomb" x="96" y="0" width="32" height="32" />
+        <Region name="wall_norm0" x="0" y="32" width="32" height="32" />
+        <Region name="wall_norm90" x="32" y="32" width="32" height="32" />
+        <Region name="wall_norm180" x="64" y="32" width="32" height="32" />
+        <Region name="wall_norm270" x="96" y="32" width="32" height="32" />
+        <Region name="wall_corner0" x="0" y="64" width="32" height="32" />
+        <Region name="wall_corner90" x="32" y="64" width="32" height="32" />
+        <Region name="wall_corner180" x="64" y="64" width="32" height="32" />
+        <Region name="wall_corner270" x="96" y="64" width="32" height="32" />
+        <Region name="wall_doorst0" x="0" y="96" width="32" height="32" />
+        <Region name="wall_doorst90" x="32" y="96" width="32" height="32" />
+        <Region name="wall_doorst180" x="64" y="96" width="32" height="32" />
+        <Region name="wall_doorst270" x="96" y="96" width="32" height="32" />
+        <Region name="wall_doorst0inv" x="0" y="128" width="32" height="32" />
+        <Region name="wall_doorst90inv" x="32" y="128" width="32" height="32" />
+        <Region name="wall_doorst180inv" x="64" y="128" width="32" height="32" />
+        <Region name="wall_doorst270inv" x="96" y="128" width="32" height="32" />
+        <Region name="wall_doormid0" x="0" y="160" width="32" height="32" />
+        <Region name="wall_doormid90" x="32" y="160" width="32" height="32" />
+        <Region name="wall_doormid180" x="64" y="160" width="32" height="32" />
+        <Region name="wall_doormid270" x="96" y="160" width="32" height="32" />
+        <Region name="cell_1" x="0" y="192" width="32" height="32" />
+        <Region name="cell_2" x="32" y="192" width="32" height="32" />
+        <Region name="cell_3" x="64" y="192" width="32" height="32" />
+        <Region name="cell_4" x="96" y="192" width="32" height="32" />
+        <Region name="cell_5" x="0" y="224" width="32" height="32" />
+        <Region name="cell_6" x="32" y="224" width="32" height="32" />
+        <Region name="cell_7" x="64" y="224" width="32" height="32" />
+        <Region name="cell_8" x="96" y="224" width="32" height="32" />
+    </Regions>
+</TextureAtlas>

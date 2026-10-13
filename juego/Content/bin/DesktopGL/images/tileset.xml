@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+    <Texture>images/tileset</Texture>
+    <Regions>
+        <Region name="cell_low" x="0" y="0" width="32" height="32" />
+        <Region name="wall_norm" x="32" y="0" width="32" height="32" />
+        <Region name="wall_doorst" x="64" y="0" width="32" height="32" />
+        <Region name="wall_doormid" x="96" y="0" width="32" height="32" />
+        <Region name="wall_corner" x="0" y="32" width="32" height="32" />
+        <Region name="cell_high" x="32" y="32" width="32" height="32" />
+        <Region name="cell_1" x="64" y="32" width="32" height="32" />
+        <Region name="cell_2" x="96" y="32" width="32" height="32" />
+        <Region name="cell_3" x="0" y="64" width="32" height="32" />
+        <Region name="cell_4" x="32" y="64" width="32" height="32" />
+        <Region name="cell_5" x="64" y="64" width="32" height="32" />
+        <Region name="cell_6" x="96" y="64" width="32" height="32" />
+        <Region name="cell_7" x="0" y="96" width="32" height="32" />
+        <Region name="cell_8" x="32" y="96" width="32" height="32" />
+        <Region name="cell_flag" x="64" y="96" width="32" height="32" />
+        <Region name="cell_bomb" x="96" y="96" width="32" height="32" />        
+    </Regions>
+</TextureAtlas>

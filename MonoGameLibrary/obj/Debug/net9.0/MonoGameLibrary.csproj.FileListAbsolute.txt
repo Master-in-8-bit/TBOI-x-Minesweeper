@@ -1,0 +1,12 @@
+/home/yo/Descargas/juego/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.deps.json
+/home/yo/Descargas/juego/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.dll
+/home/yo/Descargas/juego/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.pdb
+/home/yo/Descargas/juego/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.csproj.AssemblyReference.cache
+/home/yo/Descargas/juego/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/yo/Descargas/juego/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.AssemblyInfoInputs.cache
+/home/yo/Descargas/juego/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.AssemblyInfo.cs
+/home/yo/Descargas/juego/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.csproj.CoreCompileInputs.cache
+/home/yo/Descargas/juego/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.dll
+/home/yo/Descargas/juego/MonoGameLibrary/obj/Debug/net9.0/refint/MonoGameLibrary.dll
+/home/yo/Descargas/juego/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.pdb
+/home/yo/Descargas/juego/MonoGameLibrary/obj/Debug/net9.0/ref/MonoGameLibrary.dll
